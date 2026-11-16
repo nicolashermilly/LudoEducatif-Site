@@ -1,6 +1,6 @@
 # LudoEducatif-Site
 
-Site produit **Ludo Éducatif** (No Sage's Editor) — 32 clubs ludo-éducatifs pour les 5-11 ans.
+Site produit **Ludo Éducatif** (No Sage's Editor) — 32 univers ludo-éducatifs pour les 5-11 ans.
 Site statique GitHub Pages, calqué sur `AnimGest-Site`. Identité **verte** (charte éditeur : Anim'Gest=bleu, Cockpit'Gest=violet, Ludo=vert).
 
 ## Arborescence
